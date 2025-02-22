@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1></h1>
 
-<!--
-**RuZby/RuZby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Tom, student at 42 Mulhouse</h3>
 
-Here are some ideas to get you started:
+<h1></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"/>
+</div>
+
+<h1></h1>
+
+<h3 align="center">Skills</h3>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,github,linux,python,vim,vscode" alt="Skills" />
+</div>
